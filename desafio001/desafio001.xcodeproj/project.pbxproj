@@ -37,6 +37,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		150331BC283F38D800D18A00 /* Desafio */ = {
+			isa = PBXGroup;
+			children = (
+				15E2717B283EFE0A0064FAE4 /* VC */,
+				15E2717C283EFE130064FAE4 /* Screen */,
+			);
+			path = Desafio;
+			sourceTree = "<group>";
+		};
 		15E2715B283EC84B0064FAE4 = {
 			isa = PBXGroup;
 			children = (
@@ -56,8 +65,7 @@
 		15E27166283EC84B0064FAE4 /* desafio001 */ = {
 			isa = PBXGroup;
 			children = (
-				15E2717C283EFE130064FAE4 /* Screen */,
-				15E2717B283EFE0A0064FAE4 /* VC */,
+				150331BC283F38D800D18A00 /* Desafio */,
 				15E27167283EC84B0064FAE4 /* AppDelegate.swift */,
 				15E27169283EC84B0064FAE4 /* SceneDelegate.swift */,
 				15E27170283EC84C0064FAE4 /* Assets.xcassets */,
