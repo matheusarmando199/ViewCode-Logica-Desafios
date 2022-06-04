@@ -100,10 +100,10 @@ class DesafioVC: UIViewController {
         let n3String = n3TextFild.text ?? ""
         let n4String = n4TextFild.text ?? ""
         
-        let n1Int = Int(n1String)
-        let n2Int = Int(n2String)
-        let n3Int = Int(n3String)
-        let n4Int = Int(n4String)
+        let n1Int = Float(n1String)
+        let n2Int = Float(n2String)
+        let n3Int = Float(n3String)
+        let n4Int = Float(n4String)
         
         guard let n1Int = n1Int else { return }
         guard let n2Int = n2Int else { return }
