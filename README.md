@@ -13,6 +13,6 @@ Desafio 003 - Crie uma tela que receba 4 valores inteiros e uma segunda que most
 
 ![desafios](https://user-images.githubusercontent.com/97313575/171987377-a9638fe5-9d85-43e6-b1bd-b29f32063701.png)
 
-Desafio 003 - Crie uma tela que receba 4 valores inteiros e uma segunda que mostre a Média Aritmética desses valores :white_check_mark:
+Desafio 004 - Crie um app em viewCode que receba um valor em metros, e converta ele seguindo a tabela de conversão e de medidas a baixo :white_check_mark:
 
 ![desafios](https://user-images.githubusercontent.com/97313575/172033290-5e5a1e84-e90b-4bcf-906d-e3cab79e8783.png)
