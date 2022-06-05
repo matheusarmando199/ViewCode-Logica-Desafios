@@ -14,7 +14,7 @@ class DesafioVC: UIViewController {
     lazy var desafioLabel: UILabel = {
         let dl = UILabel()
         dl.translatesAutoresizingMaskIntoConstraints = false
-        dl.text = "Desafio 004 - Crie um app em viewCode que receba um valor em metros, e converta eleseguindo a tabela de conversão e de medidas a baixo"
+        dl.text = "Desafio 004 - Crie um app em viewCode que receba um valor em metros, e converta ele seguindo a tabela de conversão e de medidas a baixo"
         dl.font = UIFont.boldSystemFont(ofSize: 15)
         dl.textColor = .systemPink
         dl.numberOfLines = 4
