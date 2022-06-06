@@ -16,3 +16,7 @@ Desafio 003 - Crie uma tela que receba 4 valores inteiros e uma segunda que most
 Desafio 004 - Crie um app em viewCode que receba um valor em metros, e converta ele seguindo a tabela de conversão e de medidas a baixo :white_check_mark:
 
 ![desafios](https://user-images.githubusercontent.com/97313575/172033290-5e5a1e84-e90b-4bcf-906d-e3cab79e8783.png)
+
+Desafio 005 - Crie um app em ViewCode que peça um número e retorne a tabuada do numéro declarado, o retorno deve ser uma UITableView. :white_check_mark:
+
+![desafio005](https://user-images.githubusercontent.com/97313575/172263716-4e45c93e-3dbb-4ea2-8ae7-a6cff2d266f7.gif)
