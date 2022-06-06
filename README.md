@@ -17,6 +17,7 @@ Desafio 004 - Crie um app em viewCode que receba um valor em metros, e converta 
 
 ![desafios](https://user-images.githubusercontent.com/97313575/172033290-5e5a1e84-e90b-4bcf-906d-e3cab79e8783.png)
 
-Desafio 005 - Crie um app em ViewCode que peça um número e retorne a tabuada do numéro declarado, o retorno deve ser uma UITableView. :white_check_mark:
+Desafio 005 - Crie um app em ViewCode que peça um número e retorne a tabuada do número declarado, o retorno deve ser uma UITableView. :white_check_mark:
 
-![desafio005](https://user-images.githubusercontent.com/97313575/172263716-4e45c93e-3dbb-4ea2-8ae7-a6cff2d266f7.gif)
+![desafio005](https://user-images.githubusercontent.com/97313575/172264165-c90ffa0c-ba1f-438c-9582-a3e1e05fe76d.gif)
+
