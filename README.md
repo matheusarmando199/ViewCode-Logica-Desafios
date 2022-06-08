@@ -21,3 +21,6 @@ Desafio 005 - Crie um app em ViewCode que peça um número e retorne a tabuada d
 
 ![desafio005](https://user-images.githubusercontent.com/97313575/172264165-c90ffa0c-ba1f-438c-9582-a3e1e05fe76d.gif)
 
+Desafio 006 - Criar um app em ViewCode que receba um valor em reais e apresnte o mesmo convertido para dolar. :white_check_mark:
+
+![desafio006](https://user-images.githubusercontent.com/97313575/172531460-b19edc44-574a-40d4-b8b3-d3274a718347.png)
