@@ -59,11 +59,24 @@ class DesafioVC: UIViewController {
     func setUpNavigationController(){
         navigationController?.setNavigationBarHidden(true, animated: false)
     }
+    func verificaTextFieldEmpty(Ativo: Bool){
+        let campoValor = valorTextField.text ?? ""
+        let alert: UIAlertController = UIAlertController(title: "Olá", message: "Para Calcularmos te mostrar a tabuada preciso que me diga de qua valor você quer!", preferredStyle: .alert)
+        let alertAction: UIAlertAction = UIAlertAction(title: "Tentar novamente", style: .cancel)
+        alert.addAction(alertAction)
+        
+        if campoValor.isEmpty{
+            present(alert, animated: true)
+        }else{
+            
+        }
+    }
     @objc func actionCacularButton(){
+        verificaTextFieldEmpty(Ativo: true)
         let rvc: ResultadoVC = ResultadoVC()
         navigationController?.pushViewController(rvc, animated: true)
-        let valor = valorTextField.text ?? ""
         
+        let valor = valorTextField.text ?? ""
         let valorint = Int(valor)
         guard let valorint = valorint else { return }
         
