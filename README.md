@@ -24,3 +24,7 @@ Desafio 005 - Crie um app em ViewCode que peça um número e retorne a tabuada d
 Desafio 006 - Criar um app em ViewCode que receba um valor em reais e apresnte o mesmo convertido para dolar. :white_check_mark:
 
 ![desafio006](https://user-images.githubusercontent.com/97313575/172531460-b19edc44-574a-40d4-b8b3-d3274a718347.png)
+
+Desafio 007 - fazer um app em viewCode que Receba a altura e a largura de uma parede e retorne a área total em metros quadrados, su área e quantos litros de tinta serão necessários para pintar a parede, tendo em vista que a cada 2 metros quadrados serão gastos 2 litros de tinta. :white_check_mark:
+
+![desafio007](https://user-images.githubusercontent.com/97313575/172779761-cd818e80-337e-4ecf-b771-86f0de3a9f02.png)
