@@ -28,3 +28,9 @@ Desafio 006 - Criar um app em ViewCode que receba um valor em reais e apresnte o
 Desafio 007 - fazer um app em viewCode que Receba a altura e a largura de uma parede e retorne a área total em metros quadrados, su área e quantos litros de tinta serão necessários para pintar a parede, tendo em vista que a cada 2 metros quadrados serão gastos 2 litros de tinta. :white_check_mark:
 
 ![desafio007](https://user-images.githubusercontent.com/97313575/172779761-cd818e80-337e-4ecf-b771-86f0de3a9f02.png)
+
+
+Desafio 008 - Criar um app em ViewCode que receba um valor e informe o valor digitado com o valor de desconto abatido. :white_check_mark:
+
+![desafios](https://user-images.githubusercontent.com/97313575/173284963-1e0a9acc-7290-4346-b208-101e29643a35.gif)
+
