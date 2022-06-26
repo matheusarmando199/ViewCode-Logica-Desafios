@@ -136,9 +136,9 @@ class questVC: UIViewController {
         guard let porcentagemFloat = porcentagemFloat else { return }
         
         if titleViewLabel.text ==  "$ Desconto $"{
-            fr.resultLabel.text = "\(valorFloat - ((porcentagemFloat / 100.0) * valorFloat))"
+            fr.resultLabel.text = "R$ \(valorFloat - ((porcentagemFloat / 100.0) * valorFloat))"
         }else if titleViewLabel.text ==  "$ Aumento $"{
-            fr.resultLabel.text = "\(valorFloat + ((porcentagemFloat / 100.0) * valorFloat))"
+            fr.resultLabel.text = "R$ \(valorFloat + ((porcentagemFloat / 100.0) * valorFloat))"
         }
  
         navigationController?.present(fr, animated: true)
