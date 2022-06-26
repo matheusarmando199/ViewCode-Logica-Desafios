@@ -34,3 +34,6 @@ Desafio 008 - Criar um app em ViewCode que receba um valor e informe o valor dig
 
 ![desafios](https://user-images.githubusercontent.com/97313575/173284963-1e0a9acc-7290-4346-b208-101e29643a35.gif)
 
+Desafio 009 - Criar um app em ViewCode que realize um desconto ou um aumento no salário ambos os valores devem ser inseridos pelo usuário. :white_check_mark:
+![desafios009](https://user-images.githubusercontent.com/97313575/175800369-d52f8626-2e69-4551-89fb-d88ee11d4990.gif)
+
