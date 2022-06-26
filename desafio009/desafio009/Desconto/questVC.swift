@@ -103,9 +103,28 @@ class questVC: UIViewController {
         self.porcentagemTextField.delegate = delegate
     }
     
+    func setUpButton(){
+        let salario = salarioTextField.text ?? ""
+        let porcentagem = porcentagemTextField.text ?? ""
+        
+        
+        
+        if salario.isEmpty || porcentagem.isEmpty{
+               let alert: UIAlertController = UIAlertController(title: "Atenção", message: "um dos campos está vazio revise os dados e tente novamente", preferredStyle: .alert)
+               let action: UIAlertAction = UIAlertAction(title: "Revisar Dados", style: .cancel)
+                   alert.addAction(action)
+               present(alert, animated: true)
+               }else{
+                   
+               }
+        
+        
+    }
+    
     // MARK: - Funções target
     
     @objc func callViewResultAction(){
+        setUpButton()
         let fr: FinalResult = FinalResult()
         
         let valor = salarioTextField.text ?? ""
